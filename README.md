@@ -8,7 +8,7 @@ VSCodeRunVirtualGamepad.py:
 Disconnect your CyberPi from mBlock and run this code in VSCode.
 
 *Requirements(python modules)*
-vgamepad
-pyserial
-pyautogui
+vgamepad,
+pyserial,
+pyautogui,
 cyberpi
