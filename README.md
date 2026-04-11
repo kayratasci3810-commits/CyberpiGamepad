@@ -2,9 +2,7 @@
 Source Code
 
 MblockUploadMain.py:
+First, open mBlock and connect your CyberPi to COM4. Next, switch the mode to Python, then toggle to Upload and upload the code.
 
-First open mblock and connect COM4 your cyberpi next switch mode to python then switch to upload and upload code
-
-VSCodeRunVirtualGamepad.py :
-
-Disconnect your cyberpi from mblock and run this code on VSCode
+VSCodeRunVirtualGamepad.py:
+Disconnect your CyberPi from mBlock and run this code in VSCode.
