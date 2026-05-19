@@ -1,0 +1,9 @@
+*Requirements(Editor Foftwares,Programming Languages,Python Modules...)*
+cyberpi go kit,
+mblock,
+python 3.12,
+vscode,
+vgamepad,
+pyserial,
+pyautogui,
+cyberpi,
